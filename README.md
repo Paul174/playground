@@ -1,4 +1,4 @@
-# Playground - changed by matt.
+# Playground Paul - conflict resolved
 
 A place to play with `git`.
 
